@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Glide_Image</string>
+
+    <string name="gambar">Image</string>
+    <string name="btnchange">Load Ulang</string>
+    <string name="textURL">link</string>
+</resources>
